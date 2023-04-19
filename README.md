@@ -8,7 +8,7 @@
 
 To create a pipeline for regression.  
 
-I also used ***YellowBrick** for vizualizations. 
+I also used **YellowBrick** for vizualizations. 
 
 
 
